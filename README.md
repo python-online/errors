@@ -11,32 +11,31 @@ This repository is organized into various categories based on the type of errors
 Here is a list of common error categories. Click on each category to explore the errors within it:
 
 **Syntax Errors** - Errors related to incorrect syntax.
-  * [IndentationError](https://github.com/python-online/python-errors/tree/main/indentationerror) - Issues related to improper indentation.
-  * [SyntaxError](https://github.com/python-online/python-errors/tree/main/syntax-errors/syntaxerror) - General syntax errors in your code.
-  * [NameError](https://github.com/python-online/python-errors/tree/main/syntax-errors/nameerror) - Errors due to undefined variables or functions.
+  * [IndentationError](https://github.com/python-online/python-errors/tree/main/IndentationError) - Issues related to improper indentation.
+  * [SyntaxError](https://github.com/python-online/python-errors/tree/main/SyntaxError) - General syntax errors in your code.
+  * [NameError](https://github.com/python-online/python-errors/tree/main/NameError) - Errors due to undefined variables or functions.
 
 **Type Errors** - Errors that occur when an operation or function is applied to an object of inappropriate type.
-  * [TypeError](https://github.com/python-online/python-errors/tree/main/typeerror) - General type mismatch errors.
-  * [AttributeError](https://github.com/python-online/python-errors/tree/main/attributeerror) - Issues when accessing attributes that do not exist.
+  * [TypeError](https://github.com/python-online/python-errors/tree/main/TypeError) - General type mismatch errors.
+  * [AttributeError](https://github.com/python-online/python-errors/tree/main/AttributeError) - Issues when accessing attributes that do not exist.
 
 **Value Errors** - Errors related to inappropriate values.
-  * [ValueError](https://github.com/python-online/python-errors/tree/main/valueerror) - General errors due to invalid values.
-  * [IndexError](https://github.com/python-online/python-errors/tree/main/indexerror) - Issues with indexing lists or arrays out of range.
+  * [ValueError](https://github.com/python-online/python-errors/tree/main/ValueError) - General errors due to invalid values.
+  * [IndexError](https://github.com/python-online/python-errors/tree/main/IndexError) - Issues with indexing lists or arrays out of range.
 
 **Import Errors** - Errors that occur during the import of modules.
-  * [ImportError](https://github.com/python-online/python-errors/tree/main/importerror) - General errors when an import statement fails.
-  * [ModuleNotFoundError](https://github.com/python-online/python-errors/tree/main/modulenotfounderror) - Specific errors when a module cannot be found.
+  * [ImportError](https://github.com/python-online/python-errors/tree/main/ImportError) - General errors when an import statement fails.
+  * [ModuleNotFoundError](https://github.com/python-online/python-errors/tree/main/ModuleNotFoundError) - Specific errors when a module cannot be found.
 
 **IO Errors** - Errors related to input/output operations.
-  * [FileNotFoundError](https://github.com/python-online/python-errors/tree/main/filenotfounderror) - Issues when trying to access files that do not exist.
-  * [IOError](https://github.com/python-online/python-errors/tree/main/ioerror) - General input/output errors.
+  * [FileNotFoundError](https://github.com/python-online/python-errors/tree/main/FileNotFoundError) - Issues when trying to access files that do not exist.
+  * [IOError](https://github.com/python-online/python-errors/tree/main/IOError) - General input/output errors.
 
 **Runtime Errors** - Errors that occur during the execution of the program.
-  * [ZeroDivisionError](https://github.com/python-online/python-errors/tree/main/zerodivisionerror) - Issues when dividing by zero.
-  * [OverflowError](https://github.com/python-online/python-errors/tree/main/overflowerror) - Errors due to numerical operations that exceed limits.
+  * [ZeroDivisionError](https://github.com/python-online/python-errors/tree/main/ZeroDivisionError) - Issues when dividing by zero.
+  * [OverflowError](https://github.com/python-online/python-errors/tree/main/OverflowError) - Errors due to numerical operations that exceed limits.
 
 **Logical Errors** - Errors due to incorrect logic in the code, which may not raise exceptions but produce incorrect results.
-  * [Common Logical Errors](https://github.com/python-online/python-errors/tree/main/logical-errors) - Examples of logical errors and how to debug them.
 
 ## Additional Resources
 
