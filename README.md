@@ -1,5 +1,3 @@
-Certainly! Here's a README page for your `/python-errors` repository:
-
 # Python Errors: Troubleshoot and Fix Common Issues
 
 Welcome to Python Errors! This repository contains a comprehensive list of common Python errors and their solutions. Whether you're a beginner or an experienced developer, encountering errors is a part of the coding journey. Our goal is to help you understand and resolve these errors efficiently.
