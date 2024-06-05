@@ -1,2 +1,2 @@
-# errors
-Python Errors and Solutions
+# Python Errors and Solutions
+
